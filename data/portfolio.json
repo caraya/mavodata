@@ -6,14 +6,11 @@
 			"Date Started": "2017-12-16",
 			"Date Ended": "2017-12-16",
 			"status": "Idea",
-			"type": "Idea"
-		},
-		{
-			"name": "Default Project Name",
-			"description": "Project Description",
-			"Date Started": "2017-12-16",
-			"status": "Idea",
-			"type": "Idea"
+			"type": "Idea",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
