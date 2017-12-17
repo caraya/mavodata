@@ -265,6 +265,30 @@
 			"notes": "Project Notes"
 		},
 		{
+			"name": "Generated Storytelling",
+			"description": "I came across this idea from [Greg Borenstein](http://gregborenstein.com/) about how to [generate stories programatically](https://github.com/dariusk/NaNoGenMo-2014/issues/70) using processing. Using his code as a base, how can we use this to tell stories? what are the limitations",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Gestural UI",
+			"description": "Researching uses of ThreeJS and Leap Motion to build gestural user interfaces",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Default Project Name",
 			"description": "Project Description",
 			"Date Started": "2017-12-17",
