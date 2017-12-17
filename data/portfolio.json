@@ -61,6 +61,18 @@
 			"notes": "Project Notes"
 		},
 		{
+			"name": "The Trap of CDNs",
+			"description": "Discusses a particular issue using CDN loaded  resources. When first loading an application",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "https://github.com/caraya/docs/blob/master/cdn-remote-loading.md",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Default Project Name",
 			"description": "Project Description",
 			"Date Started": "2017-12-17",
