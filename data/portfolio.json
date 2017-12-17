@@ -145,14 +145,26 @@
 			"notes": "Project Notes"
 		},
 		{
-			"name": "Default Project Name",
-			"description": "Project Description",
+			"name": "CSS basic styles for ebooks",
+			"description": "Experiment with SASS and CSS to create a basic structure for ebook css",
 			"Date Started": "2017-12-17",
 			"Date Ended": "In Progress",
-			"status": "Idea",
-			"type": "Other",
-			"Code URL": "N/A",
+			"status": "In Development",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/ebook-experiments/tree/master/css-basic-for-ebooks",
 			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Python OPF package generator",
+			"description": "Implement a basic epub OPF package generator in Python.\n\nThe current version is a prototype. There's still a lot of manual work to do after running the script\n\n",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/ebook-experiments/tree/master/python-xml-gen",
+			"Writeup URL": "https://publishing-project.rivendellweb.net/epub-package-opf-generator/",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
 		}
