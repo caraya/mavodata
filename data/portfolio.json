@@ -23,6 +23,54 @@
 			"Writeup URL": "N/A",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "Progressive and subcompact web reading experiences",
+			"description": "Project Description",
+			"Date Started": "2016-07-01",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "This will take a while... I expect to have code and writing to share relatively soon."
+		},
+		{
+			"name": "eXist Research: Serialized Publications",
+			"description": "[eXist](http://exist-db.org/exist/apps/homepage/index.html) seems to be an alternative to Marklogic when it comes to OS X. \n\nHow do you build applications with XML technologies? How is this different than doing an app with Angular/Polymer and MongoDB / MongoLabs",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Engaged Readers",
+			"description": "Based on [Explorable Explanations](http://worrydream.com/ExplorableExplanations/) and [Parable of the Polygons](http://ncase.me/polygons/) research\n\nWhat would it take to create engaged reading experiences for our readers?\\n\\nHow does it translate to e-books? To other digital platforms?",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "athena-document",
+			"description": "As part of the Athena project, create a markdown document viewer styles with the same options that I want to use for the rest of the project. \n\nIt uses [juicy-markdown](https://github.com/Juicy/juicy-markdown/) for parsing Github Flavored Markdown. It should work with all the GH extensions to Markdown\n\nIt uses [Robot Draft](http://www.google.com/fonts/specimen/Roboto+Condensed) for text and headings and [Source Code Pro](http://www.google.com/fonts/specimen/Source+Code+Pro) for code blocks",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
