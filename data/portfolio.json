@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "eXist Research: Serialized Publications",
-			"description": "[eXist](http://exist-db.org/exist/apps/homepage/index.html) seems to be an alternative to Marklogic when it comes to OS X. \n\nHow do you build applications with XML technologies? How is this different than doing an app with Angular/Polymer and MongoDB / MongoLabs",
+			"description": "[eXist](http://exist-db.org/exist/apps/homepage/index.html) seems to be an alternative to Marklogic when it comes to OS X. \n\nHow do you build applications with XML technologies? How is this different than doing an app with Angular/Polymer and MongoDB / MongoLabs\n\nCan we create serialized content from different sources on demand?",
 			"Date Started": "2017-12-17",
 			"Date Ended": "In Progress",
 			"status": "In Development",
