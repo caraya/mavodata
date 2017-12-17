@@ -1,15 +1,15 @@
 {
 	"collection": [
 		{
-			"name": "Default Project Name",
-			"description": "Project Description",
+			"name": "Mavo Projects App",
+			"description": "Project tracking app using Mavo",
 			"Date Started": "2017-12-16",
-			"Date Ended": "In Progress",
-			"status": "Idea",
-			"type": "Other",
-			"Code URL": "N/A",
+			"Date Ended": "2017-12-16",
+			"status": "In Development",
+			"type": "Mixed",
+			"Code URL": "https://github.com/caraya/mprojects",
 			"Writeup URL": "N/A",
-			"Other URL": "N/A",
+			"Other URL": "https://caraya.github.io/mprojects/",
 			"notes": "Project Notes"
 		}
 	]
