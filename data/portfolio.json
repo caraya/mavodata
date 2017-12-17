@@ -73,6 +73,18 @@
 			"notes": "Project Notes"
 		},
 		{
+			"name": "ARIA and EPUB Semantics: how much is enough?",
+			"description": "I'm always researching how to incorporate accessibility elements into my digital content. One of the things we can do is to add semantic elements that will, in theory, make the content more accessible to screen readers.",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "https://github.com/caraya/docs/blob/master/accessibility.md",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Default Project Name",
 			"description": "Project Description",
 			"Date Started": "2017-12-17",
