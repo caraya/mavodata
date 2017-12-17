@@ -299,6 +299,42 @@
 			"Writeup URL": "N/A",
 			"Other URL": "https://www.npmjs.org/package/generator-webpublish",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "Creating video tutorials",
+			"description": "Pick 2 or 3 of the projects above, plan and script a tutorial around them and create the video tutorial",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "VTT Captioning",
+			"description": "Research and code on VTT Tracks and how to use them for captioning",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/vtt-demos",
+			"Writeup URL": "https://docs.webplatform.org/wiki/concepts/VTT_Captioning",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Default Project Name",
+			"description": "Project Description",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
