@@ -131,6 +131,30 @@
 			"Writeup URL": "N/A",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "Peter Pan ebook",
+			"description": "Create an example of a hand coded ebook",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Other",
+			"Code URL": "https://github.com/caraya/ebook-experiments/blob/master/peter-pan/",
+			"Writeup URL": "N/A",
+			"Other URL": "https://storage.googleapis.com/rivendellweb-bucket-data/epub-resources/font-ebooks/peter-pan-full.epub",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Default Project Name",
+			"description": "Project Description",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
