@@ -325,6 +325,42 @@
 			"notes": "Project Notes"
 		},
 		{
+			"name": "CSS shapes: an update and an expansion",
+			"description": "Update on CSS Shapes, browser support and what we can do with the technology",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Other",
+			"Code URL": "http://codepen.io/caraya/pen/eDgoJ",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/css-shapes-an-update-and-an-expansion/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "CSS regions, part 2",
+			"description": "Update on CSS Regions, browser support (or lack thereof) and what we can do with the technology right now",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "http://codepen.io/collection/DcKhj/",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/css-regions-part-2/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "HTML is the final product, not the initial source",
+			"description": "Makes the case for using (X)HTML as the final output of our production process and not to try and create production-ready markup from the beginning. It describes some tools that are easier to use than HTML and produce HTML as a result either directly or as content for templates",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/html-is-the-final-product-not-the-initial-source/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Default Project Name",
 			"description": "Project Description",
 			"Date Started": "2017-12-17",
