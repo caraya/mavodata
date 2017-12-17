@@ -179,6 +179,102 @@
 			"Writeup URL": "https://publishing-project.rivendellweb.net/subsetting-fonts/",
 			"Other URL": "http://publishing-project.rivendellweb.net/more-on-font-subsetting/",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "Synchronized audio books",
+			"description": "One of the features I like most about ePub 3 is the synchronized books (read aloud) what does it take to create the SMIL file and the content to synchronize with the book? How does it change the way we build ePub content",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Material Design in Angular  directives",
+			"description": "There is a project out that provides material design directives for Angular. What would it take to use them to create the UI for an app? \n  \nThis is an Angular 1.0 project and hasn't been updated for Angular 2 and it's unlikely that it'll happen... I've settled on Polymer as my framework of choice.\n\nThere is a material directive that you can use to build projects in Angular. How well does it work?\n\n**The links need to be updated, the database links will not work**",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "https://github.com/caraya/project-list-angular",
+			"Writeup URL": "N/A",
+			"Other URL": "http://caraya.github.io/project-list-angular/index-material.html",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Progressive WordPress",
+			"description": "The necessary tools and scripts to create a progressive web app based on WordPress blog. This was before Jetpack began working on implementing service workers and other aspects of PWA development",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "PWA Research",
+			"description": "Since I'm taking a gig as an instructional designer working in PWAs it's a good idea to start the research ahead of time and start wrapping your head around possible projects and ideas about how to work with this. \n  \nIt would also help to start outlining some possible evaluation strategies",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Choice is hard",
+			"description": "Are we really spoiled by choice when it comes to front-end development? ",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Web Components Deep Dive",
+			"description": "Now that Polymer has hit 1.0 it's time to go back and review web components and answer the following questions: **What** are web components? **Why** use web components? **Why not** use web components? **How** to use web components? **Where** to use web components? **How** to build web components? **Should we use** web components now? We will use three different flavors of web components to answer these questions: Vanilla Web components, X-Tags and Polymer 1.0.\n\nPolymer has gone through 2 major releases. It may be time to revisit this again",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Draft",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Athena Framework Version 4",
+			"description": "Version 4 of Athena Framework. Now that I've learned how to create SPAs with Polymer and now that ServiceWorkers have gained push and notification APIs it's time to revisit Athena and build something closer to what I had in mind when I first envisioned the project.\n  \n  This version uses GCM as the Push and Notification server and extends the ServiceWorker to act as the GCM client\n  \n  A tutorial for push and notification is at [http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Code",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Default Project Name",
+			"description": "Project Description",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
