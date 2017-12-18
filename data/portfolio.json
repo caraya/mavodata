@@ -397,14 +397,14 @@
 			"notes": "Project Notes"
 		},
 		{
-			"name": "Default Project Name",
-			"description": "Project Description",
+			"name": "CSS Paged Media Update",
+			"description": "Reseach and development on CSS Paged Media using Paged media and Generated content for paged media specifications from W3C as the guidelines and Antenna House and Prince XML as the formatters",
 			"Date Started": "2017-12-17",
 			"Date Ended": "In Progress",
-			"status": "Idea",
-			"type": "Other",
-			"Code URL": "N/A",
-			"Writeup URL": "N/A",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/ebook-experiments/tree/master/css-paged-media",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/css-paged-media-update/",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
 		}
