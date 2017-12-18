@@ -443,6 +443,30 @@
 			"Writeup URL": "http://publishing-project.rivendellweb.net/gpl-and-wordpress-developer-beware/",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "D3 web components",
+			"description": "Analyze advantages and disadvantages of each approach. Standard web components are only fully supported in Chrome. Polymer / X-tags is polyfills and syntactic sugar but it works with all modern browsers",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Research Report",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Default Project Name",
+			"description": "Project Description",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Idea",
+			"type": "Other",
+			"Code URL": "N/A",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
