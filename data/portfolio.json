@@ -407,6 +407,42 @@
 			"Writeup URL": "http://publishing-project.rivendellweb.net/css-paged-media-update/",
 			"Other URL": "N/A",
 			"notes": "Project Notes"
+		},
+		{
+			"name": "Creating Print CSS stylesheets",
+			"description": "Article explaining how to create stylesheets that will make your content looks better when printing the web page",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "http://publishing-project.rivendellweb.net/creating-print-css-stylesheets/",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Grunt-based Content Generator",
+			"description": "One of the things I see a lot when I read the #eprdctn twitter hashtag is how hard it is to build a coherent set of tools to make the work of creating a valid set of HTML, CSS and Javascript resources without having to push everything to InDesign.  This article proposes a solution to this issue and a set of tools Javascript to attempt to resolve the issue.",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/generator-webpublish",
+			"Writeup URL": "https://github.com/caraya/docs/blob/master/content-generator.md",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "GPL and why I won't release my Wordpress code",
+			"description": "I don't like GPL but most of the CMS/Blogging software I use is licensed under it so I'm stuck if I want to do any development work I have to release my code under GPL. Automattic/Wordpress.com will not support or advertise any theme or plugin that is not released fully under GPL. That raises questions whether the 'premium theme' creators distributors are in compliance with the license and how do we interpret the license itself. \n\nThere is also the crappy attitude and tactic Automattic followed against Chris Pearson... they not only went after the domain that he did have a right to but went after his copyrights and his livelihood. \n\nBeyond philosophical questions, there is the issue of GPL's viral nature. If you use GPL code you're required to release as open source... ideally under GPL but any other compatible license will do in a pinch,  unless you're Matt Mullenweg and Automattic... Their attitude puts developers like me in a bind... if you want to release your code through them use their license, even if you'd normally release the code under a more permissive license than GPL is. Thanks but no thanks.",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/gpl-and-wordpress-developer-beware/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		}
 	]
 }
