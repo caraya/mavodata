@@ -361,6 +361,42 @@
 			"notes": "Project Notes"
 		},
 		{
+			"name": "Using Media Queries to handle HDPI screens",
+			"description": "Media Queries, whether standalone or as part of SASS setup make it easier to handle multiple DPI devices in one set of stylesheets",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/ebook-experiments/blob/master/css-basic-for-ebooks/_hdpi-mediaqueries.scss",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/using-media-queries-to-handle-hdpi-screens/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Famo.us: A different approach to developing web apps",
+			"description": "Writeup on Famo.us a different way to think abut app development.\n\nUnfortunately, Famo.us pivoted away from the framework outlined in the article to become a creative agency and web development shop. There is an open source version of the product that has been dead on the water for a while now.",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Completed",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "https://github.com/caraya/docs/blob/master/famo.us.md",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
+			"name": "Exclusions",
+			"description": "Exclusions, as presented in the CSS working draft, allow for print-like layouts. It's mired in committee and it's only supported (partially) by IE. It's still a promising technology that allows (along with shapes) to create magazine-like layouts without resorting to images",
+			"Date Started": "2017-12-17",
+			"Date Ended": "In Progress",
+			"status": "Published",
+			"type": "Writing",
+			"Code URL": "N/A",
+			"Writeup URL": "http://publishing-project.rivendellweb.net/exclusions/",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Default Project Name",
 			"description": "Project Description",
 			"Date Started": "2017-12-17",
