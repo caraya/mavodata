@@ -1,16 +1,15 @@
 {
 	"collection": [
 		{
-			"name": "Default Project Name",
-			"description": "Vue WordPress componens",
+			"name": "WP Vue Components",
+			"description": "The idea is to create a set of Vue components that would allow the user to create a WordPress blog front end using Vue without having to reinvent the wheel.\n\nThe project is based on [wp-vue](https://github.com/alexmacarthur/wp-vue)  from Alex MacArthur\n",
 			"Date Started": "2020-06-10",
 			"Date Ended": "In Progress",
 			"status": "In Development",
 			"type": "Code",
 			"Code URL": "https://github.com/caraya/wp-vue-components",
 			"Writeup URL": "N/A",
-			"Other URL": "N/A",
-			"notes": "The idea is to create a set of Vue components that would allow the user to create a WordPress blog front end using Vue without having to reinvent the wheel. \n\nThe project is based on [wp-vue](https://github.com/alexmacarthur/wp-vue) from Alex MacArthur\n"
+			"Other URL": "N/A"
 		},
 		{
 			"name": "Moving 2D content to a 3D world\n",
