@@ -1,6 +1,18 @@
 {
 	"collection": [
 		{
+			"name": "Rivendellweb WordPress Theme",
+			"description": "The idea is to create a theme using [_S](https://underscores.me/) as the base and testing how would new technologies work in a WordPress environment. \n\nYes, I'm making assumptions that all my users would have a relatively new browser and operating system to use technologies like Grid and Variable fonts. \n\nPlan is to use the theme on my own blogs once it's at an MVP 1.0 release. ",
+			"Date Started": "2020-03-01",
+			"Date Ended": "2020-05-20",
+			"status": "Completed",
+			"type": "Code",
+			"Code URL": "https://github.com/caraya/rivendellweb-wptheme/",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "The theme is currently in use on <https://publishing-project.rivendellweb.net/>"
+		},
+		{
 			"name": "WP Vue Components",
 			"description": "The idea is to create a set of Vue components that would allow the user to create a WordPress blog front end using Vue without having to reinvent the wheel.\n\nThe project is based on [wp-vue](https://github.com/alexmacarthur/wp-vue)  from Alex MacArthur\n",
 			"Date Started": "2020-06-10",
@@ -9,7 +21,8 @@
 			"type": "Code",
 			"Code URL": "https://github.com/caraya/wp-vue-components",
 			"Writeup URL": "N/A",
-			"Other URL": "N/A"
+			"Other URL": "N/A",
+			"notes": "Project Notes"
 		},
 		{
 			"name": "Moving 2D content to a 3D world\n",
