@@ -1,11 +1,23 @@
 {
 	"collection": [
 		{
+			"name": "Editor",
+			"description": "I'm working on integrating [Electron](https://electronjs.com)  and the [Monaco Editor](https://microsoft.github.io/monaco-editor/) from Microsoft to create a code/text editor that takes advantage of the cores features of VSCodee without extensions and with additional tools that will make my workflows easier.\n\nIt is not a replacement for VSCode but a learning experience on how to use Electron.\n",
+			"Date Started": "2021-01-13",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Mixed",
+			"Code URL": "https://github.com/caraya/projects-2021-editor",
+			"Writeup URL": "N/A",
+			"Other URL": "N/A",
+			"notes": "Project Notes"
+		},
+		{
 			"name": "Rivendellweb WordPress Theme",
 			"description": "The idea is to create a theme using [_S](https://underscores.me/) as the base and testing how would new technologies work in a WordPress environment. \n\nYes, I'm making assumptions that all my users would have a relatively new browser and operating system to use technologies like Grid and Variable fonts. \n\nPlan is to use the theme on my own blogs once it's at an MVP 1.0 release. ",
 			"Date Started": "2020-03-01",
 			"Date Ended": "2020-05-20",
-			"status": "Completed",
+			"status": "In Development",
 			"type": "Code",
 			"Code URL": "https://github.com/caraya/rivendellweb-wptheme/",
 			"Writeup URL": "N/A",
@@ -475,18 +487,6 @@
 			"Date Ended": "In Progress",
 			"status": "In Development",
 			"type": "Research Report",
-			"Code URL": "N/A",
-			"Writeup URL": "N/A",
-			"Other URL": "N/A",
-			"notes": "Project Notes"
-		},
-		{
-			"name": "Default Project Name",
-			"description": "Project Description",
-			"Date Started": "2017-12-17",
-			"Date Ended": "In Progress",
-			"status": "Idea",
-			"type": "Other",
 			"Code URL": "N/A",
 			"Writeup URL": "N/A",
 			"Other URL": "N/A",
