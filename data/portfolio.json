@@ -1,6 +1,18 @@
 {
 	"collection": [
 		{
+			"name": "Block-based WordPress Theme",
+			"description": "While it's still in development, block-based themes seem to be where WordPress and Gutenberg are going. \n\nI started exploring what it takes to create these block-based themes in a post and with a sample theme to use as starting point",
+			"Date Started": "2021-03-01",
+			"Date Ended": "In Progress",
+			"status": "In Development",
+			"type": "Mixed",
+			"Code URL": "N/A",
+			"Writeup URL": "https://publishing-project.rivendellweb.net/gutenberg-full-site-editing-and-block-based-themes/",
+			"Other URL": "N/A",
+			"notes": "Block-based themes take advantage of the latest released of the Gutenberg plugin (the version of Gutenberg included in WordPress core, at least as of 5.8 Alpha, is not enough to make it work)."
+		},
+		{
 			"name": "Editor",
 			"description": "I'm working on integrating [Electron](https://electronjs.com)  and the [Monaco Editor](https://microsoft.github.io/monaco-editor/) from Microsoft to create a code/text editor that takes advantage of the cores features of VSCodee without extensions and with additional tools that will make my workflows easier.\n\nIt is not a replacement for VSCode but a learning experience on how to use Electron.\n",
 			"Date Started": "2021-01-13",
