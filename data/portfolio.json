@@ -7,7 +7,7 @@
 			"Date Ended": "In Progress",
 			"status": "In Development",
 			"type": "Mixed",
-			"Code URL": "N/A",
+			"Code URL": "https://github.com/caraya/valinor-wptheme",
 			"Writeup URL": "https://publishing-project.rivendellweb.net/gutenberg-full-site-editing-and-block-based-themes/",
 			"Other URL": "N/A",
 			"notes": "Block-based themes take advantage of the latest released of the Gutenberg plugin (the version of Gutenberg included in WordPress core, at least as of 5.8 Alpha, is not enough to make it work)."
